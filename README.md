@@ -19,3 +19,21 @@ don't change anything is the source code
                            ALL RIGHTS RESERVED !
 			   
 **********************************************************************
+
+download the tool in kali linux:
+
+open a terminal
+
+write this: 
+
+git clone https://github.com/Aziz007becha/real-password-finder.git
+
+cd real-password-finder
+
+python real-password-finder.py
+
+set the target's email
+
+set the password list name
+
+wait for it
