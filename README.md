@@ -12,9 +12,11 @@ please don't use for illegal purposes
 								
 use for legal/educational purposes only
 										
-any person who do an illegal purposes using the tool is responsible as himself
+any person who do an illegal purposes using the tool is responsible for himself
 						
-don't change anything is the source code 
+don't change anything on the source code 
+
+if someone changes my name and the copyright he will be tracked..
 
                            ALL RIGHTS RESERVED !
 			   
