@@ -30,7 +30,7 @@ git clone https://github.com/Aziz007becha/real-password-finder.git
 
 cd real-password-finder
 
-python real-password-finder.py
+python rpf.py
 
 set the target's email
 
