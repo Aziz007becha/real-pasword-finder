@@ -1,4 +1,5 @@
 # real-pasword-finder
+************************************************************
 this is the readme
 
 please read it carefully
@@ -15,4 +16,6 @@ any person who do an illegal purposes using the tool is responsible as himself
 						
 don't change anything is the source code 
 
-                           ALL RIGHTS RESERVED 
+                           ALL RIGHTS RESERVED !
+			   
+**********************************************************************
