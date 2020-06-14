@@ -20,7 +20,7 @@ if someone changes my name and the copyright he will be tracked..
 
                            ALL RIGHTS RESERVED !
 			   
-**#############################################################################################**********
+**#############################################################################################**
 
 download the tool in kali linux:
 
@@ -28,7 +28,7 @@ open a terminal
 
 write this: 
 
-git clone https://github.com/Aziz007becha/real-password-finder.git
+git clone https://github.com/AzizVirus/real-password-finder.git
 
 cd real-password-finder
 
