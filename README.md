@@ -6,7 +6,7 @@ please read it carefully
 
 anyway..
 												
-the author of this tool is not responsible for the illegal things that you do using this tool
+the author of this tool is not responsible for the illegal things or actions that you do using this tool
 						
 please don't use for illegal purposes
 								
